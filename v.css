@@ -1,0 +1,10 @@
+
+@media screen and (max-width: 896px){
+    body{
+        font-size: 30px;
+    }
+    img{
+        width: 670px; height: 550px;
+    }
+}
+body{text-align: center;}

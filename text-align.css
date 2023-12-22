@@ -1,0 +1,47 @@
+hr{
+  margin: 18px;
+  height:4px;border-width:0;color:gray;background-color:black
+}
+.p{
+  margin: 5px 0 22px 0;
+}
+.p{
+  padding: 5px;
+}
+.z{
+  text-align: center;
+}
+
+
+
+
+body{
+	margin: 0;
+}
+body{
+	background:  lightgrey;
+	color: black ;
+}
+div{ 
+	text-align: center 
+}
+
+.panel a  {
+  float: center ;
+  color: #000000 ;
+  text-align: right;
+  padding: 14px 24px;
+  text-decoration: none;
+  font-size: 25px;
+  
+  }
+.A{
+	color: grey;
+}
+.panel a:hover {
+border-bottom:3px solid red; 
+}
+.panel a.a {
+  background-color: #655;
+  color: white;
+}
